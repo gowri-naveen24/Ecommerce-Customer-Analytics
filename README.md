@@ -11,6 +11,7 @@ This project analyzes customer purchasing behavior using the Online Retail II da
 - Online Retail II Dataset
 - Source: Kaggle
 - Format: Excel (.xlsx)
+- **Note:** The dataset is not included in this repository because it exceeds GitHub's file size limit. You can download the Online Retail II dataset from Kaggle.
 
 ---
 
